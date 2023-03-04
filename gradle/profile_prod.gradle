@@ -1,7 +1,7 @@
 dependencies {
     implementation ("org.mariadb:r2dbc-mariadb")
-    implementation "mysql:mysql-connector-java"
-    liquibaseRuntime "mysql:mysql-connector-java"
+    implementation "mysql:mysql-connector-j"
+    liquibaseRuntime "mysql:mysql-connector-j"
     testImplementation "org.testcontainers:mysql"
 }
 
