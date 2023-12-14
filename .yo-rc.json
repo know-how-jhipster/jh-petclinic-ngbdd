@@ -33,7 +33,7 @@
     "microfrontends": [],
     "nativeLanguage": "en",
     "otherModules": [],
-    "packageName": "org.ujar.jh.petclinic.ngbdd",
+    "packageName": "dev.knowhowto.jh.petclinic.ngbdd",
     "pages": [],
     "prodDatabaseType": "mysql",
     "reactive": true,
