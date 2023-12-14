@@ -1,7 +1,7 @@
 sourceSets {
     test {
         java {
-            exclude 'org/ujar/jh/petclinic/ngbdd/config/MysqlTestContainer.java'
+            exclude 'dev/knowhowto/jh/petclinic/ngbdd/config/MysqlTestContainer.java'
         }
     }
 }
